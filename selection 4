@@ -1,0 +1,6 @@
+#challenge 4
+num1 = str(input("input your favourite colour"))
+if num1 is red :
+    print ("i like red too")
+else:
+    print("I don’t like "num1," "num1" is for losers")
