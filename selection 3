@@ -1,0 +1,6 @@
+#challenge 3
+num1 = int(input("input a number under 10 - 20"))
+if (num1 < 20 ) or (num1 > 10 ):
+    print ("incorrect")
+else:
+    print("Thank You")
