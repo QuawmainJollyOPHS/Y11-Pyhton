@@ -1,0 +1,25 @@
+#challenge 1 
+num1 = input(str("input a number"))
+num2 = input(str("input another number"))
+if (num1 < num2):
+    print (num2 + num1)
+else:
+    print(num1 + num2 )
+#challenge 2
+num1 = int(input("input a number under 20"))
+if (num1 < 20 ):
+    print ("Too High")
+else:
+    print("Thank You")
+#challenge 3
+num1 = int(input("input a number under 10 - 20"))
+if (num1 < 20 ) or (num1 > 10 ):
+    print ("incorrect")
+else:
+    print("Thank You")
+#challenge 4
+num1 = str(input("input your favourite colour"))
+if num1 is red :
+    print ("i like red too")
+else:
+    print("I don’t like "num1," "num1" is for losers")
