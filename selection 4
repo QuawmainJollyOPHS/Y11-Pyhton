@@ -1,4 +1,5 @@
 #challenge 4
+Quawmain
 num1 = str(input("input your favourite colour"))
 if num1 is red :
     print ("i like red too")
